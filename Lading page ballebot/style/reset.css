@@ -1,0 +1,10 @@
+*{
+    margin: 0px; /*margem é a distância PARA FORA do elemento*/
+    padding: 0px; /*padding é a "margem" que distancia a tag para o conteúdo */
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+}
