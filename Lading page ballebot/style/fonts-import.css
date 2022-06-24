@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Sarala";
+    src: local(Sarala), url(../fonts/Sarala/Sarala-Regular.ttf);
+}
+@font-face {
+    font-family: "Sarala";
+    src: local(Sarala), url(../fonts/Sarala/Sarala-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Righteous";
+    src: local(Righteous), url(../fonts/Righteous/Righteous-Regular.ttf);
+}
